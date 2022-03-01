@@ -1,0 +1,253 @@
+In this video tutorial we're going to take a look at the intermediate
+Skills tips and tricks that you need to know in order to use excel
+Properly and efficiently if you haven't already watched my other excel video. It's called the Beginner's guide to
+Excel and I highly recommend that you start with that video before watching this one
+so one of the last things that I showed in [that] beginners guide video was how to do some formatting how to
+Change let's say the column widths how to do italics and things like that well in this video
+We're going to start off [by] looking at a couple of advanced formatting options, then I'll show you a data entry
+Shortcut that's fantastic called the autofill handle then we'll take a look at how to do formulas and functions in excel
+And then we'll finish with a few more intermediate and advanced tips and tricks so here. I am in the spreadsheet
+I started in the beginners tutorial
+It's a list of movies that I own and I'm putting in [some] data about those movies well
+I want to show you a couple of shortcuts as you're trying to format the data
+That's in a spreadsheet
+These tricks will save you a lot [of] time the first is called the format
+Painter and you can find it here on the home tab home Ribbon in the clipboard group
+And it looks like a paintbrush the format painter is what it is and the way
+It works is let's say that part of your spreadsheet has a format that you wish other parts of your spreadsheet
+Had all you have to do is click on the good example that [you] would like click [here] on the format painter and that
+Copied it. It didn't copy the content rather it copied the format of this cell
+So now all I need to do is move [my] mouse to [the] place where I want to copy that
+Format to and I can click and if I release the mouse click it will copy the format
+But Let's say you would like the entire range this range
+Of 5 or 6 cells to have that layout you can just click and drag
+Holding the click and then release and you can see now they've all been painted with that format in this case
+That's not at all what I want so I'm going to undo it with this arrow up here in the upper left and it takes
+Me [back] now another more advanced formatting option that is pretty exciting at least to me is what they call
+Conditional formatting so it's up here at the top on the home tab home Ribbon here it is in the styles group
+Conditional formatting and the way this works is you [select] a column or a row [either] way?
+I'm going to select the column d. So I just click [on] it and the entire Column is selected [now]
+[I] simply go up here to conditional formatting and click and
+It gives me some options it mentions Rules several times basically
+we're going to set up some rules for the content of these cells and
+The formatting of these cells and the easiest example I can think of is color scales, so let's just look at that
+But I want you to explore this in more detail if you're interested in conditional formatting because it's really an exciting tool
+So I'm going to go into color scales
+and I want the color of
+Each cell to change to adjust depending on how valuable the movie is now to do this I would select
+Probably this color scale here
+It looks like it has green at the top and red at the bottom
+So the idea the more green it [is] the more valuable it is the redder it is the more worthless
+It is if you want [to] reverse that you can and there are all of these [other] options as well with different color schemes
+But I'm going to go with that first one
+I'll just click on it and what this does is it evaluates the entire column it looks for the highest numbers and
+Gives them the greenest background and then the lowest numbers get the darkest red
+Background and then everything else in between is adjusted accordingly so that easily I can just glance at this spreadsheet
+And I can see where the most valuable movies are if you like that please investigate conditional formatting more
+There's great ways to display the data in a conditional way you can use Data bars
+You can say if the highlighted cell is greater than 10 then make the background
+Green or put the text in bold if it's less than 5 then format it with a background of red
+There's all of these if then statements that you can use with these highlight cells rules. There's top/bottom rules top 10%
+bottom 10% icon sets
+We can show arrows going up down left or right and just some really exciting
+Formatting options that you [have] here okay before we leave formatting and move on to a few other things
+I want to show you that because these numbers represent currency
+I probably should format them a little differently so I can click here on D and everything in Column D
+That's a number will get formatted differently right now everything in here is formatted in a general way
+Which is to say that there's nothing special about the way
+They're formatted at least the numbers themselves however if I go up here
+I can change that from general to any one of these other things
+And there's even more beyond that there's also some shortcuts like this. I just want to click on the dollar sign now
+they all show up as
+Accounting currency if you don't need it or want it to be accounting you can just go down and do regular
+Currency all that changes is where the dollar sign is located
+Okay, so this is awesome this spreadsheet is turning out great so far
+Next let's look at formulas. This is where the true power of excel is found
+I believe so far in our spreadsheet [all] we've done is enter text or numbers and then also in some cases
+We've applied some formatting but other than that we haven't put anything special into the spreadsheet
+well
+Let's change that what I'd like to do next is put in some
+Formulas that will help me know some things like what's the total value of my DVD collection?
+What is the average value of the DVDs that [I] own and what's the most expensive?
+Value and the least expensive stuff like that all right, so let's figure that out down here at the bottom [of] the spreadsheet
+[I'm] going to create a formula now. It doesn't have to be here
+I could put the formula anywhere on this spreadsheet or another spreadsheet, okay, wherever I want to put this formula
+I can do it, but I'm going to do it here so I'll just click and whenever I do a formula in excel
+[I] click on a cell and then I think to myself the phrase this cell so [I] click this cell
+Equals and I want to find out the total amount that my collection is worth
+So I need to somehow add up all of those numbers
+[let] me show you the hard way first the hard way would be to say okay. We have a [five] so I'll type in five
+Plus two plus five and I can just keep doing this plus six plus nine
+I can just keep doing that basically creating a formula
+And then all I have to do is tap return or enter and look it adds up those numbers the thing is that's way
+Too tedious, so instead of doing that what I can do is type in the word sum
+so this cell is equal to the sum of
+And then you put a left
+parenthesis and now I just need to describe the
+Cell or in this case the range that I want it to add up that
+I want it to sum fortunately as I showed in [the] beginners video
+I can name a range every range in excel has a name and the name of this range is
+D3
+Through D 22 so I'll just type D3 and if you remember from the beginners video the word through is
+Denoted with a colon and then D
+22 and then you're supposed to put another parenthesis the end parenthesis now
+I'm going to not do that just to show you that even though you're supposed to you. Don't have to you now hit enter and
+Look what it's done. It's added up all of those numbers [the] grand total worth of my DVD collection is
+135 Dollars
+[now] if you want to make sure that it worked you can double click [on] it and look what it did it
+Highlighted all of the numbers that it got that it included in the formula
+Now let me show you an alternate way the way. I [just] showed
+You is one of the nicest quickest ways to do it
+Especially if you have a giant spreadsheet, but there are a couple of other ways in addition to typing in the range
+I could just move my mouse up to the top
+click and drag with my mouse on the range that I would like it to add up and
+Then just tap return and you get the same results now
+There's also yet another even faster and easier way to do it
+And I'm going to delete my formula in order to show you this properly what I would do is
+I would just click on the cell but instead of typing equals
+I can just go [up] here on the home Ribbon and go to the editing group and here
+We have something called auto sum, it's this symbol here, and you can just click [on] it
+And it will automatically look immediately above and it will add up
+Everything in those cells so I can hit enter and I the same results
+So that's the fastest. I will say that sometimes it gets it wrong sometimes it gets the wrong data
+So just watch out for it
+I usually use autosum
+But just be a little bit skeptical
+Sometimes it might include data that you don't want included okay speaking of including data that you don't want
+Notice what it did to my conditional formatting now
+This is the only green value and everything else is small compared to it, right
+So I need to fix that with my conditional formatting I'll go in and highlight that entire Column and I'm going to clear the rules
+Okay, so it gets it completely out
+and I just
+want to [do] conditional formatting with
+Just those numbers not the total so now I go in conditional formatting color scales and look that's back to being useful
+Okay, now I should go in and type total and maybe put these in bold just to show that this number is different
+It's special it's different than those other numbers, okay next
+I'd like to do an average formula, and it's similar [I] would just say to myself this cell is equal to the average
+Left Parenthesis, and then I can click and drag or I can type in the range or notice that there is an auto
+Average which again, you should use it. It's great, but just be a little skeptical of the results
+I'm going to double click between those cells to make it so you can see the word average
+Next I want to do one of what's the highest value and the lowest [value]
+For these the formula is a little
+Different for highest the formula is this this cell is equal to the [max] or just max?
+Left parenthesis click and drag on the range or type in the range
+It's up to you hit return so what it did is it?
+Looked through that range [found] the maximum number the highest number and printed it here
+Next I'll do lowest for lowest
+We do this cell is equal to min left
+parenthesis and the range I'll type it in this time D3 through D [22] d 3
+through D 22 hit enter
+And there's the lowest so you can see these formula are pretty useful
+You can get some really good numbers out of them
+So those are probably the four most common ones that I use some average Max and min
+But just know that there are many many more
+functions that you [can] use if you want to see pretty much an exhaustive list of all [of] the
+Functions that you [can] use just type in equals, and then look up here. This is the formula bar is what we have here and
+It's an alternative to typing your formula right here [in] the cell
+You [could] just go up to the formula bar and start typing and notice as you type you get some suggestions
+So it's recommending because I typed in [Avril] it's recommending average average a average if there's four different average
+Functions that I could draw from okay, so it will give suggestions
+That's one thing to know about but also over here on the left. Look what it does. There's a click drop-down
+Where you get some pretty good suggestions about the functions that you [might] want there's also a formulas tab
+Where you can go and a whole function library?
+Where you can get math, and trig formulas lookup and reference formulas [texts] logical these are great recently used
+financial formulas and if you really don't know which one you want to do just go here to
+Insert function, and you can get it on most of these dropdowns
+And then just type a brief description of what you want to do. Let's say. I want to count the number of
+DVDs that I have so I'll do a search for count and it brings up some
+Options that I have and it tells me what exactly it's going to do so use these tools that you have
+Use the formula bar use the formulas tab and if you need to use the insert function button
+That gives you some additional options, so you can also click here insert function
+So have fun playing around with formulas and functions. So they're very powerful
+Next we're going to take a look at a few intermediate and maybe some advanced tips and tricks that you should know [about]
+One that is pretty well known is called the autofill handle
+And this is where you'll find it when you click on a cell look in the lower, right corner
+There's a green square and if you put your mouse on that square it will become a plus sign now
+It's already a plus sign
+But it becomes a black
+Plus sign once you see that you know that you've got the autofill handle
+And what you can do with this is you [can] click and drag to copy. What's in the cell?
+So if I want to copy 2015, I just click and drag it's 2015 again 2015 again
+and I can just keep doing that I can even just click and drag and get a whole column of
+2015 so [that's] the autofill handle I'm going to undo that
+now that also works with text not just
+With numbers so I can copy what's in a cell by using the autofill handle and clicking and dragging now
+What's really cool is you can copy a pattern so right here?
+I just clicked and dragged to highlight 2016 2015 now
+If I use the autofill handle look what it does it figures out the pattern the pattern is minus [one]
+subtract one
+And it just repeated that pattern so if you will show the autofill handle
+The Pattern that you would like for it to copy it will copy that pattern you can also
+Use the autofill handle to copy a formula now in this case the formula doesn't work too. Well, this is the sum formula
+It's trying to add up all of these numbers when I use the autofill handle dragged it over look what it did now
+It's trying to sum up this column and so because those aren't [numbers]. It's not working real well, but let me do it this direction
+You can see it is now adding up the years it thinks [that] it's currency, but that's okay
+It's adding up all of these years and coming up with a total so I just love the autofill handle
+It's especially good for anything related to time so for example dates. Let's say
+I want to put in each of the months of the year
+With dates and times you don't even have to establish a pattern you can just type in the [first]
+Thing that's related to date or time
+And then just go to the corner click and drag and look it automatically knows what comes next same with days of the week
+same with full dates
+and
+It's also the same with times
+So this autofill handle is just a lifesaver [a] time-saver for sure so I'm going to select all of that
+Just by clicking on the column letters across the top clicking and holding and then I'll right-click and choose clear
+Contents, and that clears it out, but I wanted you to see that autofill handle
+Okay, next up just three fast
+Rapid-fire tips that I think everyone needs to know if you're using excel [more] than just at a beginning level [and] the first one is
+How to sort so I put my movies in just in random order, but I would like to sort them alphabetically
+So what I'll do is
+I'll click on the first cell of the first record so star wars I clicked on that cell
+Now either on the home tab or on the data Tab either one
+You should be able to find sort and filter
+I'm going to go to the data tab here's sort and I would like it to sort
+Alphabetically a to z so I click on it and look what it did now all of the movies are alphabetized
+From a to z now the first time you do this you're going to be worried that you'll lose the integrity of your spreadsheet
+[that] [maybe] the dates won't match up now, but if you notice they do
+Okay, go back rewind the video if you want, but this used to say 2007 now
+It says 2003 so sorting is a really great feature in excel. What about filtering?
+What is filtering well filtering is a way to eliminate parts of your spreadsheet?
+Temporarily so that you can see the data you want to see to turn on filtering what I like to do is click and drag
+Across the Column headings that I've created
+so location Genre value ETc once I've highlighted all of them I go up to the top and I click filter and
+Notice they all now have a little [drop-down] arrow
+And so what I'm going to use this to do is I want to eliminate all of [the] PG-13 movies
+Let's say we're going to have a birthday party for a small child. I don't want to show a movie
+That would be too scary, I would go into ratings and click and right now
+It's showing everything okay, so I want to deselect all and go down, and I just want to choose
+Pg. That's the only one. I want selected now if I had g movies I could select those too
+But I'll just stick with that click ok and you can see it looks like it got rid of those additional records
+It really didn't get rid of them. You can see here on the left
+It jumps from [one] two jumps to five and in excel
+You just cannot eliminate row numbers or column headings. They always exist. They can be hidden, and that's what's happened here
+Is they're hidden but they still exist [all] right? So isn't that pretty useful
+I love filtering even more really than sorting now to get the data all showing again
+I can just click here on what looks like a funnel. Okay? It used to be the drop-down arrow now. It's a funnel
+I just click on it and
+Go to select all click [ok] and that takes the filter off
+I could do the same kind of filter for Genre
+And I could say I only want to see comedy or children's movies things like that
+So filters are very powerful now the last more advanced tip that I want to share with you is called Freeze Panes
+This spreadsheet really is not that big let's say I go buy a hundred more DVDS
+[then] it's really going to be a bigger spreadsheet
+and it's going to be harder to
+Put in my data and even to look at it as your spreadsheet gets more vertical
+You can kind of lose track of what your column titles are
+So that's where freeze panes comes in what you do with Freeze panes is you click?
+Underneath the row that you would like to freeze so I'm going to click on three because that's underneath my column titles
+then I'm going to go to the view tab the view Ribbon and notice there's an option in the window group called Freeze Panes and
+Watch what happens when I click freeze panes, [okay]?
+It first pops up with three options, and I'm just going to click freeze panes
+[so] now as I browse down the page as I enter more records
+[look] what happens those first two Rows stay visible to me
+and that's because I froze everything above [Row] 3 so that's where I'm going to stop in Reality a
+Comprehensive excel tutorial would be 15 20 25 [hours] long and this is already too long of a video
+But I really believe that if you watch my beginners guide to excel video and this intermediate
+Video that you will have what you need to get started using excel effectively as you continue using and learning excel
+I'd recommend that you this resource here at the top. Tell me what you want to do
+you can [just] type in something that you're trying to do and it will give you some help and
+Some Guidance on how to do it
+Thanks for [watching] [this] tutorial and please consider subscribing to my Youtube channel for more videos
+[about] technology for teachers and students and please consider following me on social Media platforms such as twitter and Facebook
+So that we can continue learning together
