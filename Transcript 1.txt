@@ -1,0 +1,266 @@
+Welcome to this excel basics video tutorial in this tutorial
+I'll be showing you most of the basics that you need to know in order to get started using Microsoft excel and
+The version of excel that I'm going to be using in this tutorial is excel 2016
+[for] Windows having said that if you're using a different version of excel
+Maybe an older version or even a newer version or if you use excel on a mac there will be some slight differences
+But for the most part I would say 95% of what I show in this tutorial will [be] very applicable to
+You and your usage of excel
+So I simply [clicked] the icon here to get started using excel and excel now would like me to make a choice
+[it] wants to know if I would like to open up an excel template or simply open a blank workbook
+[you] can see that there [are] lots of templates to choose from
+This is [a] welcome to excel tour and it's a good way to kind of learn some of the basics of excel
+But that's why you're watching my video, so I'm going to skip that one there's a cash flow analysis. There's email insights stock symbols
+There's a sales invoice. There's a budget in here. Here it is: a family budget
+There's all sorts of great excel spreadsheets that you can just open up and start changing the data start using it that way
+So I would encourage you [to] browse and explore these
+Templates that are [available] to you in addition to the 30 or so templates that you have here there is an option to search
+Online templates, so I'm going to do a search for budget and you can see it comes up with even more
+Budgets, you're not limited just to the one family budget
+there's a whole bunch that you can choose from [over] here on the right there's
+categories that you can sift through and you can select the specific kind of budget or
+spreadsheet template that you would like to use if you find one that you do want to use you can just click on it and
+Click create and it will make a copy of that as a spreadsheet that you can open and use in excel
+So please do spend some time exploring
+What's available and in many cases much of the work is already done for you? You can simply use somebody else's template and
+Adjust it for what you need now templates are very useful but having said that I think in order to really
+Learn to use excel fully and properly. It's best to start with a blank workbook
+[so] I'm just going to double click [on] [that]
+To select a blank workbook and open it up and the first thing we need to do is
+Learn about the layout that we have in excel 2016 there are certain terms that you're going to need to know
+First of all across the top we have some tabs, okay, we have the home tab
+the insert tab page layout and more as you can see each of these tabs is pretty important and
+When you click on a particular tab it opens up a ribbon, okay?
+This is the Ribbon for the home tab [if] I click the page layout tab I get [the] page layout Ribbon
+now each Ribbon is divided up into
+Groups so you can see I have a themes group. I have a page setup
+Group a scale to fit group and these are all on the page layout Ribbon
+And I get to that Ribbon by clicking on the page layout tab
+So those are some important terms that you'll need to know tab
+Ribbon group and you'll notice in the corner of some of these groups
+[there's] what I like to call a launch button, okay?
+So the scale to fit group has a little launch button in the corner the sheet options group has a lunch button in the corner
+The arrange group doesn't seem to have one now
+What are these launch buttons basically you can click on those launch buttons to give you even more [options]?
+[so] [what] Microsoft has done here?
+is they've tried to fit all [of] the page layout options on this ribbon, but of course there's limited amount of
+Geography there's a limited amount of space that they have to work with and so sometimes they can fit everything in that little group
+sometimes they can't and if they can't there's a launch button that you can click to get even more so that's
+Why some have a launch button some don't [ok]? I think it's important to start with that terminology
+[because] I'm going to be using it [throughout] this tutorial [all] right a couple of other
+Layout terms that you're going to need to know in the spreadsheet itself. This is the spreadsheet and spreadsheets are made up of
+Columns and Rows
+[ok] so you can see we have an a column a b column C
+Column ETC, and if I browse to the right, okay, you can see that
+[there's] even more than that, and if needed it'll just keep going to the right adding more and more columns
+Okay
+Once it gets to z it goes to a a column a a and so lots and lots of columns in this spreadsheet
+Now what about rose? [I] have row number one row number two row number three okay, so
+spreadsheets are made up of columns and rows now the
+[intersection] of a column and a row is what produces a cell, so this is a cell and
+Every cell in excel
+Has a name okay this particular cell is named
+C2 and you can imagine how I got that name
+it's just the intersection of the column and the [row] this particular cell here has a name it's
+M9 and this is
+[I-16] now that may seem obvious and unimportant
+But it's actually [very] exciting and powerful that every cell in excel
+Has a name because [it] has a name you can describe it and you can have excel do certain things
+With the content in each cell we'll get to that a little bit later all right?
+now in addition to Columns rows and cells
+There's another part of a spreadsheet that you need to know about and that is a range
+Okay
+Now a range is a group of cells that are together a range could be this
+It could be this it [could] be this it could be any number of things
+It's basically a group of cells that are next to each other that are together and guess what?
+Ranges can also be named just like cells can so just like this is named
+L7 I can also name this
+Okay, now the way you name a range is you start in the upper left and you name the cell in the [upper] left?
+so this is
+L7 and then you say the word through so L7 through and then you say the name of the cell in the lower right n
+12
+So L 7 through n. 12 that is the name of this range?
+Now in the back of your mind
+Just tuck this piece of information the way you would write the name of this range is you would write L
+7 through the symbol for through is a colon and then you would put n 12 so that is
+How you would write the name of the range that you see here?
+Okay, I'm going to tap escape to get out of that because I don't really want [to] type that in the cell so that was
+Some background information that you're going to need in order to really
+use excel properly now that we've talked about the layout of the ribbon and the tabs and the groups and things and
+also
+the spreadsheet itself
+With the columns the rows the cells and the ranges and actually I should add a couple more you can see that
+This is all on a sheet sheet one and I can add a sheet 2 sheet 3 ETc
+each of these sheets added together is what creates a workbook so sheets or worksheets add up to a
+Workbook ok so now that we've got all that as a foundation
+For our excel use let's now start actually creating and working on an excel spreadsheet
+Now to make this a little bit more interesting for you to look at I'm going to zoom in a little bit
+So I'm going to use this slider in the lower right corner, [and] I'll just click and drag to zoom in on my spreadsheet
+ok so that should be a little bit easier for you to see and now I'm going to click on a one and
+Enter some data in this a one cell and just as an example
+Let's say I want [to] use excel to create an inventory of my movie collection
+[ok] now this could be anything if you're a teacher
+Maybe this is the supplies that you
+have that you loan out to the students or if you're a secretary at a school let's say you're in charge of keeping track of
+The supplies at the school whatever it might be but let's say I want [to] do an inventory of the movies that [I] own
+First thing I want to do is maybe put a little title in there
+So I'm going to type in a 1 and I'll type movie
+inventory and
+You'll notice that my text is bigger than the cell itself it goes too far to the right
+But you know what don't worry about that just [hit] enter or return on the keyboard
+And I've successfully entered my first data into this spreadsheet now
+it looks like these words movie inventory are spilling over from A1
+Into b 1 but in actuality that's not true
+It's an illusion both of these words are stored in A1 if I click on B1
+[I] could type in B1 and hit return or enter and you'll notice that movie inventory is still
+stored in A1 [ok] so they don't interact they don't interfere with each other, so
+No need to worry if your text is too wide to fit in a 1 but having said that
+Sometimes making your spreadsheet. Look nice actually helps you use it better. So let's talk about how I could maybe fix this
+It's not really a problem, but how could I fix it if I want to make it look a little nicer?
+Well what I can do
+I can stretch out any column or even any row if I want to by just putting my mouse
+Between any two Column letters, so this is Column a Column b
+Put my mouse between the two right on the line or very close to it and you'll notice that my mouse cursor
+Changed into a double sided arrow, that's a good sign
+So now I can click and drag to stretch that out to make it wider now
+You may have noticed when I entered movie inventory into that cell and I hit enter or return it
+Automatically moved me down in excel when you tap [enter] or return
+You move down the spreadsheet if you want to move up the spreadsheet
+You can hold shift and hit enter or return and it will move up, [okay]?
+So shift enter or shift return moves up enter or return moves down now
+What if you want to move to the right maybe I want to type something in B1? What I would do is
+I would tap tab tab moves you to the right so I could enter more text there
+And then tap tab and enter more text there and just keep tabbing over what if you want to move left?
+[I] bet you can guess what it is
+you would hold shift and tap tab so shift is basically used to do the opposite of
+Whatever it would be otherwise, so enter return is normally down
+Shift-enter return is up tab is to the right shift tab is to the left
+Another way you can navigate throughout the spreadsheet is by using the arrows on your keyboard [if] you find the [up/down] [left/right]
+Arrows you can just use those to move up down left or right?
+It's a little bit more awkward than using enter or shift enter
+But that's another option and of course you can also use your mouse to click on where you want to go?
+But I'll tell you if you can learn to [use] excel simply with the keyboard without using your mouse very much
+It's really going to go a lot better for you. So [I've] got my title in there now
+I'm going to click on a two and I'm going [to] type in the word title. That's where I'll put the movie title now
+I'll tap tab to move over to the right and I'll put in date purchased
+Tab again
+rating Tab again
+value Tab again
+Genre and
+Tab again
+Location and that will store quite a bit of information for me about my movie
+Inventory [all] right with that last one when I hit enter it moved me down, and it moved to the left
+Expecting me to put in the first record is what they call it and the first record would be the first movie
+So let's say I put in Star [wars] again
+I could tap tab to move over to the right [I] could say okay. I purchased it 2007. It's rated PG
+It's worth maybe $5 and it's science fiction and it's located in the [living] room
+Okay
+So that's an example of data Entry
+How you can enter [data] into a spreadsheet by [clicking] on a cell or somehow getting on a cell?
+Typing and then hitting either tab to move to the right or enter to move down now as another example
+I'm going to type in another record, and I'll put in some other information here and at this point
+Let's say I notice a misspelled word, and I would like to fix that okay
+You'll notice that I misspelled empire if I click on cell a4 to try to fix that misspelling watch
+What will happen as soon as I type it erases? What was there? Okay? The reason why is because?
+When I clicked on that cell when you click on a cell anything that you type replaces?
+What is there already it deletes? What's there and then replaces it with whatever you type. So there's a distinction
+I need to tell you about there's a difference between being on a cell and being in a cell
+To get in a cell you have to double click on it
+[ok] notice what [happens] when I double clicked on [that] cell. It actually jumped me inside the cell and now I have a cursor
+That's flashing and I can click or I can use the arrow keys to move that cursor
+where I want it to be so there is a big difference between being on a cell and
+Being in a cell in this case, I don't want to be on the cell
+I don't want to replace all of the text in this cell. I want to click twice quickly now
+I've jumped inside it and I have this cursor
+And I can move it where I want it to be fix the misspelling hit return again that may seem like a very
+small insignificant thing
+But excel is all about details and all of these little details will really enhance your use of excel
+So please stick with me and pay [attention] to these details
+And I promise your use of excel will be much more satisfying and effective now
+Give me a few minutes to put in a few more records, and then I'll resume the tutorial
+Ok so I've finished putting in some movies [here]
+And some records is what they're called each of these rows contains a record and to help you see this a little bit better
+I'm going to zoom back out a little bit so you can see I've [put] in quite a few movies here now
+what we need to do next is
+Dress this up a little bit make it look a little better it
+Just doesn't look quite right to our eye at this point
+So what are some things that we can do to make this look nicer?
+First of all here at the top my title basically of this spreadsheet
+It's kind of off to the side, and it doesn't have anything that makes it stand out and look different
+so I'm going to click [on] it on the cell and
+I'm going to click up [here] at the top on the home tab in the home Ribbon
+I can click on bold to give it a bold look so that will help it stand out
+Notice that I can also use the paint bucket tool to paint the background of that cell
+I may or may [not] want to do that in this case
+I don't necessarily want that so I'm going to click the arrow next to it and I'm going to go to no fill I
+Could also change the color of the text itself
+Okay, so that is also an option. I'm going [to] go back to black in this case in addition. I could italicize or underline
+Those are all good options to have but that will help the text stand out a little bit
+Another thing I can do is click on cell A1 and drag
+I'm still holding the mouse click, and I'm going [to] drag until I've covered all of the
+Content of my spreadsheet so the content of this spreadsheet ends at Column F
+I don't have anything beyond that so I just clicked and dragged to get all the way across
+Now watch what I can do on the home tab home Ribbon
+There's a button here [in] the alignment [group] called merge and center and if I click on that
+See what it did it merged all of those cells together
+So this is now one big cell and it [centered] it, okay?
+so merchant Center is very helpful to do what I [just] did to basically break [down] the walls between
+These cells and make it one big cell and then to center it that looks a lot better the other thing like I said before
+The text not quite fitting in the cell kind of bothers me
+So I could go up here to the top like I showed earlier and click and drag to make sure everything fits
+But I want you to see a shortcut
+there's a shortcut to doing this all you have to do is go up here at the top and
+Just go between any two [of] the column letters and double click and if you do that look what happens it
+automatically will perfectly sized the column so that all of [the] text will fit I could do that also for date purchased and
+For rating now notice in that case the rating Column actually got narrower
+It's because it doesn't need to be longer than what it is now, [okay]?
+So I can do that with value and so forth now. Let me show you yet another trick
+That's a little bit of a time-saver instead of [double-clicking] between every single Column one [it]
+time look what I can do click and drag on the Column letters all the way across to the
+End of my data and then double click between any two of these it doesn't matter which
+[double-Click] and notice now it automatically resized every column every
+Column that I had [selected] was affected by that double click and now is
+Perfectly sized to [fit] the content that's in those cells, and if I browse back to the left using this slider
+You can see everything is perfectly sized so I used a phrase there
+I said everything that was selected every column that was selected was affected by what I did [in] excel
+That's a nice phrase to maybe think about select to [affect] if you want to affect it. You must select it first
+One more little Shortcut little trick when you click and drag on those column headings
+Yes, the fastest way to resize is to then double click between any two Column letters
+But you could alternatively just click and drag and watch what [happens]. I'm going to resize this
+Column let go and look every single Column was affected because I had selected each they're all
+affected by that
+And they're all exactly the same width so hopefully those little tricks will help you to be able to
+Resize your columns the way that makes the most sense for you and the idea is to make your data
+Look nice because when it looks good
+it's often easier to
+Read easier to understand and comprehend ok now there are good reasons sometimes to keep columns narrow even if all the text doesn't fit
+So you don't have to always make [sure] everything is always visible
+But I want you to be able to do that when you need to [ok] next up
+I guess I do want to click here on movie
+Inventory and Underline it to set that apart as the title and then down here
+I would like to make all of these column names different
+So I'll highlight them and I'll go up and make them bold and let's say italicized now the way
+I did that so fast you may not have noticed I simply clicked on the row number
+And it highlighted the entire row all the way to the right and so that's selected it and to effect it
+I just chose bold and
+Italicize and it affected everything that's selected so at this point
+I hope that you are familiar now with the different names of the layout in excel
+We know what to call the different things like the tabs the groups the ribbons things like that we also know about
+Columns Rows cells and ranges sheets and Workbooks
+and we know how to enter data and then how to
+Select it to affect it and to change how it looks on the screen
+And we also know how to adjust the column widths and I didn't show this explicitly so let me just quickly do that
+Notice that you can affect the rows as well
+So I can make rows
+Taller than they would have otherwise been I can double click between them to perfectly
+Resize I can affect more than one at a time by selecting more than one row so all of those same techniques that I showed
+About the Columns can also be used with the rows so all of this in my opinion gives you a good foundation
+It helps you understand the basics of using excel in a future video
+I'll show you some
+Intermediate excel tips and tricks' ways that you can save time and effort as you're building your spreadsheets
+[we'll] also get into formulas and functions
+And that's really where much of the power of excel is found and I'll also throw in a couple of advanced
+Excel tips and tricks, so please watch for that future video. Thanks for watching this excel basics video
+I hope you enjoyed it and [please] consider subscribing to my Youtube channel for more videos about
+Technology for teachers and students and watch for a new video at least every Monday also
+I hope that you'll follow me on Twitter Facebook Tumblr and other social Media
+So I hope that you'll follow me on these social media platforms and that we can keep learning together
