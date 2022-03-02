@@ -1,0 +1,109 @@
+in this short video tutorial I'm gonna
+show you an advanced Excel technique
+called protect sheet and at this point I
+hope that you've watched my beginners
+guide to using Excel and also my
+intermediate excel tips and tricks for
+the advanced stuff I'm just creating
+short videos so please check out my
+other excel advanced videos when you
+have time in this video though we're
+gonna look at how to protect a sheet so
+I have here a sample sheet and it's
+pretty small but it's basically a list
+of amazing music some of which you've
+probably heard of and others that are
+more underground or lesser-known and if
+you're interested in learning about some
+of this amazing music I'll put some
+links in the description below so that
+you can click and learn about the music
+that should be world-famous that isn't
+always so anyway let's say I'm gonna
+trust this spreadsheet to someone else
+maybe my son or my daughter is gonna go
+in and I want them to update the value
+of my CD collection and of course this
+is just a small sample of the collection
+but anyway let's say I want them
+occasionally to update the value the
+current value of each of these CDs but
+I'm afraid that they might accidentally
+delete some of this data this data took
+me a while to put in there and I want to
+protect it so that they can only change
+the current value of each item but they
+can't ruin the whole record so how would
+I go about doing this well it's kind of
+tricky and you almost have to think
+backwards in order to figure out how to
+do this what you need to do is click and
+drag to select the cells that I want to
+be editable these are the cells that I
+want to be editable everything else I
+would like to be protected and locked
+but these I want to be editable so I
+select those cells that range and of
+course I could go much further as well
+and then I go here to the Home tab home
+ribbon and the font group launch button
+now honestly I could have picked any of
+these launch buttons but I'm going to
+click this one the font launch button
+and it opens up with some options one of
+which is protection there's a protection
+tab so I click on it and notice that it
+says that those cells that I've selected
+are
+locked by default all cells in Excel are
+locked but they don't seem to be locked
+- do they the reason why is because in
+order to actually activate this and make
+them actually be locked you have to
+follow these steps that are listed here
+but in this case this is the range that
+I don't want to be locked so I'm gonna
+uncheck that option click OK and now
+those are set up to be unlocked
+everything else is set up to be locked
+so now to actually activate it to put
+the layer of protection over this sheet
+so that indeed these are unlocked and
+everything else is locked what I have to
+do is one more step I have to go to the
+review tab the changes group and notice
+that there's an option to protect the
+sheet so just with a click it brings up
+this option protect the sheet and the
+contents of locked cells if I want to I
+can password protect this so that
+students or other people can't just go
+here to review and unprotect the sheet I
+could password protect it I'm gonna
+click OK and so now it's protected this
+sheet is protected notice what happens
+when I try to type over the words New
+Wave it doesn't let me when I try to
+type over one of the dates it doesn't
+let me those areas are locked but the
+part that I set to be unlocked the value
+let's say the value goes up on some of
+these CDs which often happens I can
+click and change those because those
+cells I changed them from being
+defaulted to locked to be unlocked so
+this is a way to protect a sheet that
+you're a little concerned that maybe
+you're sharing with others and you're
+afraid that maybe they'll change the
+wrong data accidentally or on purpose
+and yet you want them to be able to work
+in certain areas of the sheet so thanks
+for watching I hope that this is useful
+to you please consider connecting with
+me on my social media platforms such as
+Pinterest Twitter and Facebook and I
+really hope that you'll subscribe to my
+youtube channel for more videos about
+technology for teachers and students and
+watch for a new video at least every
